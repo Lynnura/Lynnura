@@ -3,7 +3,7 @@ Hello! I'm Lynnura, Also known as Nura. Welcome to my github!
 A little bit about me:
 
 I study Media and Communications and planing to go further into game design and development in the future. 
-I love making stories that make people feel something, be it happy or sad or something inbetween. I am more or less self-taught but wish to get a education in computer science.
+I love making stories that make people feel something, be it happy or sad or something inbetween, I think games is a great media to tell theese stories in. I am more or less self-taught but wish to get an education in the field.
 
 - My pronouns are She/her but i don't mind They/them
 - I am currently learning and using C#
